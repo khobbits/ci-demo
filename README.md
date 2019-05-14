@@ -1,4 +1,4 @@
-This is an demo repo
+This is an master demo repo
 
 Created for CI examples
 
